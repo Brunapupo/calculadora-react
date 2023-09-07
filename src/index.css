@@ -16,5 +16,6 @@ body {
 
   color: #fff;
   /* Corrigir a função de gradiente de rgb para rgb */
-  background: linear-gradient(to right, rgb(240, 242, 240), rgb(0, 12, 64));
+  background: linear-gradient(to right, rgb(240, 242, 240), #9599E2);
+
 }
