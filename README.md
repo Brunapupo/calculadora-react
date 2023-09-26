@@ -35,8 +35,8 @@ Certifique-se de ter os seguintes itens instalados em sua máquina local:
 1. Clone o repositório:
 
    ```bash
-   git clone https://github.com/seu-usuario/seu-projeto.git
-   cd seu-projeto
+   git clone git@github.com:Brunapupo/calculadora-react.git
+   cd git@github.com:Brunapupo/calculadora-react.git
 
 ## Feito por:
 ### Bruna Pupo
